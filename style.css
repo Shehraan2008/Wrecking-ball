@@ -1,0 +1,11 @@
+html,
+body {
+  margin: 0;
+  font-family: "VT232", Courier, monospace;
+}
+canvas {
+  display: block;
+}
+p {
+  padding-left: 1%;
+}
